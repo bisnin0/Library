@@ -1,0 +1,11 @@
+관리자 기능
+ID : admin
+PWD : 1234
+
+일반회원 기능
+    ID     PWD
+1. jang   1111
+2. hong  2222
+3. lee    3333
+4. kang  4444
+5. lee2   5555
